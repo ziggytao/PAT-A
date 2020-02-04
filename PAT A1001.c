@@ -1,3 +1,4 @@
+/*
 Calculate a+b and output the sum in standard format -- that is, the digits must be separated into groups of three by commas
 (unless there are less than four digits).
 
@@ -13,7 +14,7 @@ Sample Input:
    
 Sample Output:
 -999,991
-
+*/
     
     
 #include <stdio.h>
