@@ -1,3 +1,4 @@
+/*
 This time, you are supposed to find A+B where A and B are two polynomials.
 
 Input Specification:
@@ -17,6 +18,7 @@ Sample Input:
 Sample Output:
 3 2 1.5 1 2.9 0 3.2
 
+*/
 
 #include <stdio.h>
 int main() {
