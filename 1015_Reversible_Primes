@@ -25,6 +25,12 @@ int transfer(int n,int radix){
     }
     return ret;
 }
+/*
+transfer函数完成了三件事
+1.将十进制的n转换成radix进制
+2.将数字逆序
+3.转换回十进制
+*/
 
 bool isPrime(int n){
     bool isPrime = true;
